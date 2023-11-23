@@ -56,4 +56,4 @@ After reviewing your PR, we will merge it if it aligns with the project's goals.
 License
 This project is licensed under the MIT License, which means you can use, modify, and distribute the code for both personal and commercial purposes.
 
-By L1QU3D
+By L1QU3D  @2023
